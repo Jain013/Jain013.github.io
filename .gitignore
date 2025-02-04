@@ -64,6 +64,9 @@ typings/
 **/.cache
 public
 
-.idea
+.idea/
+*.iws
+*.iml
+*.ipr
 .vscode
 .DS_Store
